@@ -4,7 +4,7 @@ Unofficial PyTorch Reimplementation of AutoAugment and RandAugment.
 Code taken from https://github.com/DeepVoltaire/AutoAugment and https://github.com/jizongFox/uda
 ## How to install:
 ```bash
-pip install randaugment
+$ pip install git+https://github.com/seareale/pytorch-randaugment
 ```
 ---
 
